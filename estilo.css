@@ -1,0 +1,23 @@
+#menu {
+    margin: 0 auto;
+    font-size: 26px;
+    text-align: center;
+    border-bottom: solid 1px black;
+    font-family: 'Rancho';
+}
+#menu ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+}
+
+#menu ul li {
+    display: inline;
+    font-size:26px;
+}
+#menu li:hover{
+    color:red;
+}
+body{
+    margin: 0 auto;
+}
