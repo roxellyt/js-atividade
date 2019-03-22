@@ -1,2 +1,0 @@
-# js-atividade
-# js-atividade
